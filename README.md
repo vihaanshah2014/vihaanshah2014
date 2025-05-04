@@ -7,3 +7,5 @@
 
 ### 🎉 Hobbies/Interests
 Soccer | Tennis | Bollywood Music | Gaming | Photography | Cooking | Travel | Reading
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/vihaanshah2014/stats)
